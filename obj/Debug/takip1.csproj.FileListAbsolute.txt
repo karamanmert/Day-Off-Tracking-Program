@@ -1,0 +1,31 @@
+c:\users\burakreis\documents\visual studio 2017\Projects\takip1\bin\Debug\takip1.exe.config
+c:\users\burakreis\documents\visual studio 2017\Projects\takip1\bin\Debug\takip1.exe
+c:\users\burakreis\documents\visual studio 2017\Projects\takip1\bin\Debug\takip1.pdb
+c:\users\burakreis\documents\visual studio 2017\Projects\takip1\obj\Debug\takip1.csprojResolveAssemblyReference.cache
+c:\users\burakreis\documents\visual studio 2017\Projects\takip1\obj\Debug\takip1.Form1.resources
+c:\users\burakreis\documents\visual studio 2017\Projects\takip1\obj\Debug\takip1.ik.resources
+c:\users\burakreis\documents\visual studio 2017\Projects\takip1\obj\Debug\takip1.izintalep.resources
+c:\users\burakreis\documents\visual studio 2017\Projects\takip1\obj\Debug\takip1.Properties.Resources.resources
+c:\users\burakreis\documents\visual studio 2017\Projects\takip1\obj\Debug\takip1.csproj.GenerateResource.Cache
+c:\users\burakreis\documents\visual studio 2017\Projects\takip1\obj\Debug\takip1.exe
+c:\users\burakreis\documents\visual studio 2017\Projects\takip1\obj\Debug\takip1.pdb
+C:\Users\burakreis\Documents\Visual Studio 2017\Projects\takip1\obj\Debug\takip1.istenCikis.resources
+C:\Users\burakreis\Documents\Visual Studio 2017\Projects\takip1\obj\Debug\takip1.personelKayit.resources
+C:\Users\burakreis\Documents\Visual Studio 2017\Projects\takip1\bin\Debug\System.ValueTuple.dll
+C:\Users\burakreis\Documents\Visual Studio 2017\Projects\takip1\obj\Debug\takip1.düzenleme.resources
+C:\Users\burakreis\Desktop\takip1\obj\Debug\takip1.düzenleme.resources
+C:\Users\burakreis\Desktop\takip1\obj\Debug\takip1.Form1.resources
+C:\Users\burakreis\Desktop\takip1\obj\Debug\takip1.ik.resources
+C:\Users\burakreis\Desktop\takip1\obj\Debug\takip1.istenCikis.resources
+C:\Users\burakreis\Desktop\takip1\obj\Debug\takip1.izintalep.resources
+C:\Users\burakreis\Desktop\takip1\obj\Debug\takip1.personelKayit.resources
+C:\Users\burakreis\Desktop\takip1\obj\Debug\takip1.Properties.Resources.resources
+C:\Users\burakreis\Desktop\takip1\obj\Debug\takip1.csproj.GenerateResource.Cache
+C:\Users\burakreis\Desktop\takip1\obj\Debug\takip1.exe
+C:\Users\burakreis\Desktop\takip1\obj\Debug\takip1.pdb
+C:\Users\burakreis\Desktop\takip1\bin\Debug\takip1.exe.config
+C:\Users\burakreis\Desktop\takip1\bin\Debug\takip1.exe
+C:\Users\burakreis\Desktop\takip1\bin\Debug\takip1.pdb
+C:\Users\burakreis\Desktop\takip1\bin\Debug\System.ValueTuple.dll
+C:\Users\burakreis\Desktop\takip1\obj\Debug\takip1.csprojResolveAssemblyReference.cache
+C:\Users\burakreis\Desktop\takip1\obj\Debug\takip1.ikrapor.resources
